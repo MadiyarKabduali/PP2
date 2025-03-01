@@ -1,0 +1,10 @@
+aptekab
+abbb
+python_regex
+Bioject
+aXYZb
+Hello, world. a
+hello_world
+HelloWorldRegex
+ThisIsATest
+camelCase
